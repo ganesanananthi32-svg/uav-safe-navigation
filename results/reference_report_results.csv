@@ -1,0 +1,7 @@
+version,source,goal_rate,collision_rate,timeout_rate,mean_final_distance_m,mean_closest_approach_m,notes
+v4,supplied report/PPT,0.00,0.02,0.98,2.581,0.938,Five-obstacle baseline
+v5,supplied report/PPT,0.00,,,,,Extended training/TTC diagnostic; complete metric set not available in consolidated table
+v6,supplied report/PPT,0.00,0.00,1.00,3.274,,Curriculum with replay reset
+v7,supplied report/PPT,0.00,0.00,1.00,3.508,,Curriculum with replay continuity
+v8,supplied report/PPT,0.00,0.00,1.00,2.924,,Spacing correction; best checkpoint final distance 2.725 m also reported
+v9,supplied PPT final-stable configuration,0.96,0.04,0.00,0.215,1.669,48/50 goal; 2/50 crashes; treat as reference until freshly reproduced

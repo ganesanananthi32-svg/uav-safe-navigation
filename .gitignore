@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/*
+checkpoints/*
+results/*/episodes.csv
+results/*/*.png
+results/fresh_version_summary.csv
